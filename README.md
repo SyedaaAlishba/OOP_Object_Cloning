@@ -13,14 +13,6 @@ A base class representing general vehicle details.
 Contains four public fields:
 name, color, model, company
 
-Has a static method:
-
-java
-Copy
-Edit
-Start_Engine()
-that prints "Starting engine"
-
 🔷 Bike Class (Child)
 Key Features:
 
