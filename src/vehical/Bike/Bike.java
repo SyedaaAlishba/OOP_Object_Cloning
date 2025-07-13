@@ -1,5 +1,7 @@
+package vehical.Bike;
+import  vehical.Vehical;
 
-public class Bike extends Vehical {
+public class Bike extends Vehical{
     public  Bike (String name, String model, String company, String color){
         this.name =name;
         this.color= color;
